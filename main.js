@@ -23,7 +23,7 @@ bot.onText(/\/info/, (msg) => {
       inline_keyboard: [
         [{
           text: 'GitHub Repository',
-          url: 'https://github.com/naix0x/'
+          url: 'https://github.com/bovalonee/'
         }]
       ]
     }
