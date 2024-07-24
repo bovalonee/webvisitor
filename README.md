@@ -15,7 +15,8 @@ The following is cmd management in bot :
 | /setreferer `http://example.com`    | set host referer |
 | /removerefer `http://example.com`    | remove host referer |
 
-####⚠️ Warning
+#### ⚠️ Warning
+
 - must use `http://` like `/send_visitor http://target.com 10 5`
 
 #### 🆕 Update Version
