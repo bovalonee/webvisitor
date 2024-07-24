@@ -21,6 +21,10 @@ The following is cmd management in bot :
 | /setreferer `http://example.com`    | set host referer |
 | /removerefer `http://example.com`    | remove host referer |
 
+<p align="center">
+    <img width="250" src="screenshot/Screenshot_20240725-010723_Telegram.jpg" alt="Console">
+</p>
+
 #### ⚠️ Warning
 
 - must use `http://` like `/send_visitor http://target.com 10 5`
