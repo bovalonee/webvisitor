@@ -1,5 +1,7 @@
 ## 🤖 Traffic HTTP
 
+For sended traffic website on bot telegram with proxies/non-proxies
+
 ### ⚒️ Command Management Access
 
 The following is cmd management in bot :
