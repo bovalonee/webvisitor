@@ -2,6 +2,10 @@
 
 For sended traffic website on bot telegram with proxies/non-proxies
 
+<p align="center">
+    <img width="250" src="screenshot/Screenshot_20240725-010650_Telegram.jpg" alt="Console">
+</p>
+
 ### ⚒️ Command Management Access
 
 The following is cmd management in bot :
