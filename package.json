@@ -1,0 +1,30 @@
+{
+  "name": "webvisitor",
+  "version": "4.0.2",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bovalonee/webvisitor.git"
+  },
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bovalonee/webvisitor/issues"
+  },
+  "homepage": "https://github.com/bovalonee/webvisitor#readme",
+  "description": "The Auto Visitor bot is used to send traffic to the target web/blog where this bot uses a proxy to determine different IP addresses.",
+  "dependencies": {
+    "detect-libc": "^2.0.2",
+    "keygen": "^0.4.0",
+    "node-addon-api": "^3.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Visitor",
+    "Website"
+  ],
+  "author": "Mustofa Bovalone"
+}
