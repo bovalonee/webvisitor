@@ -59,11 +59,7 @@ npm install node-telegram-bot-api axios-https-proxy-fix fs yarn
 - Prepare youre API Token telegram.
 
 ```bash
-npm install webvisitor
-```
-
-```bash
-mv node_modules/webvisitor ./
+git clone https://github.com/bovalonee/webvisitor.git
 ```
 
 ```bash
